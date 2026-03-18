@@ -103,7 +103,8 @@ evolve.
 
 ## Process Map (TO-BE)
 
-<img width="711" height="652" alt="Zrzut ekranu 2026-03-18 o 12 19 00" src="https://github.com/user-attachments/assets/2166c913-efe8-4a2c-a646-b1e2e4a2a639" />
+<img width="977" height="937" alt="automatyzacja_newsow_schemat drawio" src="https://github.com/user-attachments/assets/6a75b35d-dc45-4752-86f9-c1f70f1e8a3a" />
+
 
 
 ---
