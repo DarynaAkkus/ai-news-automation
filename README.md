@@ -115,7 +115,6 @@ evolve.
 |------|-------------|
 | `Projekt_Akkus.docx` | Full academic project report (Polish, WSZiB format) |
 | `process_map.drawio` | Editable BPMN-style process diagram |
-| `images/` | Process map screenshot |
 
 ---
 
